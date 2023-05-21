@@ -1,0 +1,38 @@
+Planet data
+    'is_character' = False
+    'Astrographical Information'
+        Region
+        Sector
+        System
+        Suns <---
+        Orbital position (missing)
+        Moons <---
+        Grid Square
+        XYZ coordinates
+        Trade routes
+        Rotation period
+        Orbital period
+    Physical Information
+        Class (missing)
+        Diameter
+        Atmosphere <---
+        Climate <---
+        Primary terrain
+        Points of interest
+        Flora (missing)
+        Fauna
+        Other lifeforms (missing)
+    Societal Information
+        Native species <---
+        Immigrated species <---
+        Primary language(s) (missing)
+        Government (missing)
+        Population <---
+        Demonym (missing)
+        Major cities (missing)
+        Major exports <---
+        Affiliation <---
+        crosslinks
+
+
+
