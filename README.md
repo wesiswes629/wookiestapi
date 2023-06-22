@@ -22,7 +22,7 @@ To run this project, you will need STAPI, Docker, Python 3 and the following lib
 
 The data for this project comes from two online databases: Wookieepedia and STAPI.
 
-- Wookieepedia is a fan-made wiki that contains information about the Star Wars universe, such as characters, planets, species, vehicles, and more. It has an API that allows users to access its data programmatically. The URL for Wookieepedia is https://starwars.fandom.com/wiki/Main_Page.
+- Wookieepedia is a fan-made wiki that contains information about the Star Wars universe, such as characters, planets, species, vehicles, and more. The URL for Wookieepedia is https://starwars.fandom.com/wiki/Main_Page.
 - STAPI is a RESTful web service that provides data about the Star Trek universe, such as characters, planets, species, starships, and more. It has a simple and consistent interface that allows users to query its data easily. The URL for STAPI is http://stapi.co/.
 
 For the Star Wars data, I used a good portion of the Wookieepedia scrape from this GitHub repository: https://github.com/dennisbakhuis/wookieepediascience. This repository contains scripts and notebooks that scrape and analyze data from Wookieepedia using Python and pandas. I modified some of the scripts to suit my needs and added some additional scraping functions. I would like to thank Dennis Bakhuis for creating and sharing this repository.
